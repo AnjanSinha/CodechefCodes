@@ -1,1 +1,1 @@
-#Codechef solutions with question code.
+# Codechef solutions with question code.
