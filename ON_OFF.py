@@ -1,8 +1,8 @@
 #ON_OFF
-for _ in range(int(input())):
-    n = int(input())
-    s = str(input())
-    r = str(input())
+for _ in range(int(input("Enter the number of test cases: "))):
+    n = int(input("Enter no of switches: "))
+    s = str(input("Enter initial position of swithches: "))
+    r = str(input("Enter changed position of swithches: "))
     lis=[]
     lir=[]
     for i in s:
